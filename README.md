@@ -13,9 +13,9 @@ Para unirse definitivamente a la liga de Guardianes, los candidatos deben pasar 
 -  **Inicial** El candidato siempre supera la evaluación
 
 ## Candidatos
-- **Helia** tiene una fuerza de 22 unidades y como no le interesa estudiar nunca tendrá estudios avanzados Al entrenar su fuerza no varía. 
+- **Helia** Tiene una fuerza de 22 unidades y como no le interesa estudiar nunca tendrá estudios avanzados Al entrenar su fuerza no varía. 
 - **Astro** Inicialmente no maneja ningún arma, pero cada vez que entrena adquiere destreza sobre un arma nueva. Su fuerza es 10 veces la cantidad de armas que maneja. Se considera que sus estudios son avanzados si maneja mas de 5 armas. 
-- **Zoe** Su entrenamiento consiste en aprender sobre un nuevo rol, el que en ese momento sea el destacado de   la liga. Se considera que tiene estudios avanzados si alguna vez aprendió el rol de estratega. Su fuerza es 8 más la cantidad de roles diferentes que haya aprendido. 
+- **Zoe** Su entrenamiento consiste en aprender sobre un nuevo rol, el que en ese momento sea el destacado de la liga. Se considera que tiene estudios avanzados si alguna vez aprendió el rol de estratega. Su fuerza es 8 más la cantidad de roles diferentes que haya aprendido. 
 
 ## Requerimientos
 1. Hacer que cambie el rol destacado de la liga.
@@ -23,8 +23,8 @@ Para unirse definitivamente a la liga de Guardianes, los candidatos deben pasar 
 3. Hacer que cambien los valores máximo y mínimo del ayudante.
 4. Hacer que todos los candidatos de la liga se entrenen.
 5. Determina que la liga puede soportar un ataque de un valor entregado por parámetro la suma de las fuerzas de los guerreros sea mayor al doble de dicho valor. 
-6. Averiguar cuáles candidatos podrían superar la evaluación para el rol destacado actual de la liga
-7. Hacer que los candidatos que superen la evaluación dejen de ser candidatos y pasen a ser guardianes.
+6. Averiguar cuáles candidatos podrían superar la evaluación para un rol en particular.
+7. Hacer que los candidatos que superen la evaluación para un rol en particular dejen de ser candidatos y pasen a ser guardianes.
 8. Hacer tests de ítem 7, cambiando los escenarios iniciales y probando con todos los roles existentes. 
 
 Dejamos 2 test propuestos a modo de ejemplo y ambos tienen una inicialización que agregan a la liga a los 3 candidatos (Helia, Astro y Zoe).  Los test son lo siguientes:
